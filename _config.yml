@@ -7,11 +7,9 @@ url: "https://mahammeldhafin-1.github.io"
 baseurl: "/LJT-Homepage"
 repository: "mahammeldhafin-1/LJT-Homepage"
 
-# Sidebar profile
 author:
   name: "Junteng Liu"
   bio: "Ph.D. candidate at HKUST NLP Group researching NLP and machine learning."
-  location: "Hong Kong"
   employer: "Hong Kong University of Science and Technology"
   email: "jliugi@connect.ust.hk"
   googlescholar: "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
@@ -32,16 +30,12 @@ words_per_minute: 160
 future: true
 read_more: "disabled"
 talkmap_link: false
-
 comments:
   provider: false
-
 atom_feed:
   hide: false
-
 analytics:
   provider: false
-
 include:
   - .htaccess
   - _pages
@@ -91,7 +85,6 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-
 collections:
   teaching:
     output: true
@@ -105,7 +98,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
 defaults:
   - scope:
       path: ""
@@ -150,9 +142,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
 sass:
   sass_dir: _sass
   style: compressed
 permalink: /:categories/:title/
-timezone: Asia/Hong_Kong
