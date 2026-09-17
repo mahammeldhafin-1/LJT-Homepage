@@ -15,6 +15,17 @@ My research lies at the intersection of **natural language processing** and **ma
 - Hallucination in vision-language models
 - LLM truthfulness and interpretability
 
+## Publications
+
+- **[SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond]({{ '/publication/synlogic/' | relative_url }})**. Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, and Junxian He. *arXiv*, 2025.
+- **[On the Perception Bottleneck of VLMs for Chart Understanding]({{ '/publication/perception-bottleneck-vlms-chart-understanding/' | relative_url }})**. Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, and Junxian He. *arXiv*, 2025.
+- **[On the Universal Truthfulness Hyperplane Inside LLMs]({{ '/publication/universal-truthfulness-hyperplane/' | relative_url }})**. Junteng Liu, Shiqi Chen, Yu Cheng, and Junxian He. *EMNLP*, 2024.
+- **[In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation]({{ '/publication/in-context-sharpness-alerts/' | relative_url }})**. Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, and Junxian He. *ICML*, 2024.
+- **[C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models]({{ '/publication/c-eval/' | relative_url }})**. Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, and Junxian He. *NeurIPS*, 2023.
+- **[Composing Parameter-Efficient Modules with Arithmetic Operations]({{ '/publication/composing-parameter-efficient-modules/' | relative_url }})**. Jinghan Zhang, Shiqi Chen, Junteng Liu, and Junxian He. *NeurIPS*, 2023.
+
+[View all publications]({{ '/publications/' | relative_url }}).
+
 ## Research experience
 
 - **Research Intern, MINIMAX** — February 2025–present
